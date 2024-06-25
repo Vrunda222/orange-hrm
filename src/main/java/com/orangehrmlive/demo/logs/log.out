@@ -1,0 +1,274 @@
+2024-06-25 15:06:506 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:868 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:952 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (e3d447455630c8217aff926477c75d7f)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:83 INFO  DashboardPage :36 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (e3d447455630c8217aff926477c75d7f)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-06-25 15:06:326 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:636 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:715 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (5f92d792f55c13ce57a2110b0c007203)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:755 INFO  DashboardPage :41 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (5f92d792f55c13ce57a2110b0c007203)] -> xpath: //img[@alt='client brand banner']]
+2024-06-25 15:06:772 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:48 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:142 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (eeacab4c70a94cc6c87415d130c3a3ca)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:159 INFO  DashboardPage :27 - Clicking on user profile logo : [[ChromeDriver: chrome on windows (eeacab4c70a94cc6c87415d130c3a3ca)] -> xpath: //img[@class='oxd-userdropdown-img']]
+2024-06-25 15:06:937 INFO  DashboardPage :32 - Clicking on logout link : [[ChromeDriver: chrome on windows (eeacab4c70a94cc6c87415d130c3a3ca)] -> xpath: //a[normalize-space()='Logout']]
+2024-06-25 15:06:166 INFO  LoginPage :41 - Enter User Name: 
+2024-06-25 15:06:439 INFO  LoginPage :51 - Enter Password: 
+2024-06-25 15:06:498 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (a02af4328a01d5c14bb27b046fbd7530)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:554 INFO  LoginPage :57 - Getting username field blank error message : [[ChromeDriver: chrome on windows (a02af4328a01d5c14bb27b046fbd7530)] -> xpath: //div[@class='orangehrm-login-slot-wrapper']//div[1]//div[1]//span[1]]
+2024-06-25 15:06:688 INFO  LoginPage :41 - Enter User Name: test123@gmail.com
+2024-06-25 15:06:992 INFO  LoginPage :51 - Enter Password: 
+2024-06-25 15:06:75 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (4494ecfc7ae4a6c76019779e6e4bf44b)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:138 INFO  LoginPage :62 - Getting password field blank error message : [[ChromeDriver: chrome on windows (4494ecfc7ae4a6c76019779e6e4bf44b)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 15:06:302 INFO  LoginPage :41 - Enter User Name: 
+2024-06-25 15:06:559 INFO  LoginPage :51 - Enter Password: test123
+2024-06-25 15:06:633 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (ab1f04a867b46177fe486ed16a3730c0)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:684 INFO  LoginPage :57 - Getting username field blank error message : [[ChromeDriver: chrome on windows (ab1f04a867b46177fe486ed16a3730c0)] -> xpath: //div[@class='orangehrm-login-slot-wrapper']//div[1]//div[1]//span[1]]
+2024-06-25 15:06:762 INFO  LoginPage :41 - Enter User Name: test123@gmail.com
+2024-06-25 15:06:127 INFO  LoginPage :51 - Enter Password: test123
+2024-06-25 15:06:232 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (324760be92ac842a0f33614c68b1d469)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:875 INFO  LoginPage :67 - Getting invalid credential error message : [[ChromeDriver: chrome on windows (324760be92ac842a0f33614c68b1d469)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]
+2024-06-25 15:06:879 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:178 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:264 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:58 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:248 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:282 INFO  ViewSystemUsersPage :117 - Clicking on Add button: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-06-25 15:06:794 INFO  ViewSystemUsersPage :122 - Verifying User added text: Add User
+2024-06-25 15:06:817 INFO  AddUserPage :23 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-06-25 15:06:972 INFO  AddUserPage :28 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 15:06:44 INFO  ViewSystemUsersPage :128 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Ranga  Akunuri')]'
+2024-06-25 15:06:230 INFO  ViewSystemUsersPage :135 - Entering User: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[4]/div[1]/div[2]/input[1]]
+2024-06-25 15:06:332 INFO  ViewSystemUsersPage :140 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2024-06-25 15:06:436 INFO  ViewSystemUsersPage :149 - Entering Password: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //div[@class='orangehrm-card-container']/form[1]/div[2]/div[1]/div[1]/div[1]/div[2]/input[1]]
+2024-06-25 15:06:522 INFO  ViewSystemUsersPage :154 - Entering Confirm Password: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //div[@class='orangehrm-card-container']/form[1]/div[2]/div[1]/div[2]/div[1]/div[2]/input[1]]
+2024-06-25 15:06:573 INFO  ViewSystemUsersPage :159 - Clicking on Save: [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary orangehrm-left-space']]
+2024-06-25 15:06:83 INFO  ViewSystemUsersPage :164 - Getting User Added Successfully message : [[ChromeDriver: chrome on windows (fe46be2ba84a550ce50746ae1a80195d)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-text--toast-message oxd-toast-content-text']]
+2024-06-25 15:06:865 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:153 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:226 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:141 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:341 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:427 INFO  ViewSystemUsersPage :171 - Enter soniya92 to User Name field : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 15:06:439 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 15:06:473 INFO  ViewSystemUsersPage :180 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 15:06:644 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: (//i)[13]]
+2024-06-25 15:06:778 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 15:06:817 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 15:06:13 INFO  ViewSystemUsersPage :215 - Getting UserName from record : [[ChromeDriver: chrome on windows (c677c9a2cfa1d108cc85497b07dc1e3f)] -> xpath: (//div[@data-v-6c07a142])[1]]
+2024-06-25 15:06:705 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:996 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:70 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:03 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:289 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:390 INFO  ViewSystemUsersPage :171 - Enter soniya92 to User Name field : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 15:06:401 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 15:06:438 INFO  ViewSystemUsersPage :180 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 15:06:630 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: (//i)[13]]
+2024-06-25 15:06:764 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 15:06:803 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 15:06:872 INFO  ViewSystemUsersPage :215 - Getting UserName from record : [[ChromeDriver: chrome on windows (00cd013a856244dd4efe20112b018ba4)] -> xpath: (//div[@data-v-6c07a142])[1]]
+2024-06-25 15:06:826 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:106 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:184 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:352 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:542 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:633 INFO  ViewSystemUsersPage :171 - Enter Admin to User Name field : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 15:06:644 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 15:06:680 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 15:06:848 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: (//i)[13]]
+2024-06-25 15:06:985 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 15:06:19 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 15:06:61 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (46c1ae7d70231a8490dcc12d6006995f)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 15:06:924 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:202 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:273 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:218 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:408 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:508 INFO  ViewSystemUsersPage :171 - Enter Nina.Patel to User Name field : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 15:06:519 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 15:06:553 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 15:06:721 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: (//i)[13]]
+2024-06-25 15:06:874 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 15:06:913 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 15:06:952 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (1b93c81e9cef3a5575789cb493d6e30a)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 15:06:686 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:998 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:80 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:953 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:144 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:245 INFO  ViewSystemUsersPage :171 - Enter Cassidy.Hope to User Name field : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 15:06:255 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 15:06:288 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 15:06:453 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: (//i)[13]]
+2024-06-25 15:06:607 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 15:06:647 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 15:06:689 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (dafe4655d3cef7d4124e0544a501d135)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 15:06:506 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 15:06:796 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 15:06:907 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //button[@type='submit']]
+2024-06-25 15:06:966 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 15:06:219 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 15:06:314 INFO  ViewSystemUsersPage :171 - Enter Odis.Adalwin to User Name field : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 15:06:324 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 15:06:362 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 15:06:534 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: (//i)[13]]
+2024-06-25 15:06:673 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 15:06:715 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 15:06:753 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (0cbdf6a970e349ca519e591f1e2f1fee)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 21:06:157 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:636 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:890 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (a2a83b25fe074676854732b80cafe306)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:982 INFO  DashboardPage :36 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (a2a83b25fe074676854732b80cafe306)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-06-25 21:06:35 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:533 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:773 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (388a7d9966a52d6b57b86690074e5634)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:154 INFO  DashboardPage :41 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (388a7d9966a52d6b57b86690074e5634)] -> xpath: //img[@alt='client brand banner']]
+2024-06-25 21:06:120 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:760 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:12 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (ecaad969a855b9b85b570d759c60139d)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:363 INFO  DashboardPage :27 - Clicking on user profile logo : [[ChromeDriver: chrome on windows (ecaad969a855b9b85b570d759c60139d)] -> xpath: //img[@class='oxd-userdropdown-img']]
+2024-06-25 21:06:40 INFO  DashboardPage :32 - Clicking on logout link : [[ChromeDriver: chrome on windows (ecaad969a855b9b85b570d759c60139d)] -> xpath: //a[normalize-space()='Logout']]
+2024-06-25 21:06:36 INFO  LoginPage :41 - Enter User Name: 
+2024-06-25 21:06:361 INFO  LoginPage :51 - Enter Password: 
+2024-06-25 21:06:443 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (d60ec44f649a4ace0f608a361ab6da61)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:549 INFO  LoginPage :57 - Getting username field blank error message : [[ChromeDriver: chrome on windows (d60ec44f649a4ace0f608a361ab6da61)] -> xpath: //div[@class='orangehrm-login-slot-wrapper']//div[1]//div[1]//span[1]]
+2024-06-25 21:06:305 INFO  LoginPage :41 - Enter User Name: test123@gmail.com
+2024-06-25 21:06:692 INFO  LoginPage :51 - Enter Password: 
+2024-06-25 21:06:812 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (4cd443061921b1b89b4f0c80b9ca5b6e)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:906 INFO  LoginPage :62 - Getting password field blank error message : [[ChromeDriver: chrome on windows (4cd443061921b1b89b4f0c80b9ca5b6e)] -> xpath: //span[@class='oxd-text oxd-text--span oxd-input-field-error-message oxd-input-group__message']]
+2024-06-25 21:06:684 INFO  LoginPage :41 - Enter User Name: 
+2024-06-25 21:06:84 INFO  LoginPage :51 - Enter Password: test123
+2024-06-25 21:06:323 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (46c3ecf3f61212cd3a6559d9071acd28)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:418 INFO  LoginPage :57 - Getting username field blank error message : [[ChromeDriver: chrome on windows (46c3ecf3f61212cd3a6559d9071acd28)] -> xpath: //div[@class='orangehrm-login-slot-wrapper']//div[1]//div[1]//span[1]]
+2024-06-25 21:06:340 INFO  LoginPage :41 - Enter User Name: test123@gmail.com
+2024-06-25 21:06:995 INFO  LoginPage :51 - Enter Password: test123
+2024-06-25 21:06:203 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (c4a809bebe18a81ef9ea619dacb9f4d7)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:41 INFO  LoginPage :67 - Getting invalid credential error message : [[ChromeDriver: chrome on windows (c4a809bebe18a81ef9ea619dacb9f4d7)] -> xpath: //p[@class='oxd-text oxd-text--p oxd-alert-content-text']]
+2024-06-25 21:06:760 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:211 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:421 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:590 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:882 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:962 INFO  ViewSystemUsersPage :117 - Clicking on Add button: [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-06-25 21:06:582 INFO  ViewSystemUsersPage :122 - Verifying User added text: Add User
+2024-06-25 21:06:620 INFO  AddUserPage :23 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-06-25 21:06:785 INFO  AddUserPage :28 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 21:06:913 INFO  ViewSystemUsersPage :128 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Ranga  Akunuri')]'
+2024-06-25 21:06:221 INFO  ViewSystemUsersPage :135 - Entering User: [[ChromeDriver: chrome on windows (1ca96014a09c18a74df0affd2ac64051)] -> xpath: //div[@class='oxd-form-row']/div[1]/div[4]/div[1]/div[2]/input[1]]
+2024-06-25 21:06:404 INFO  ViewSystemUsersPage :140 - Selecting Status Disable: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-select-wrapper']//*[contains(text(),'Disabled')]'
+2024-06-25 21:06:347 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:716 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:920 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:193 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:456 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:676 INFO  ViewSystemUsersPage :171 - Enter abc92 to User Name field : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:707 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:779 INFO  ViewSystemUsersPage :180 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 21:06:28 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: (//i)[13]]
+2024-06-25 21:06:220 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:316 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (707b3d49152c75408e5d3b5a1906b81d)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:340 INFO  ViewSystemUsersPage :215 - Getting UserName from record : Proxy element for: DefaultElementLocator 'By.xpath: (//div[@data-v-6c07a142])[1]'
+2024-06-25 21:06:645 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:30 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:207 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:13 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:320 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:606 INFO  ViewSystemUsersPage :171 - Enter abc92 to User Name field : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:632 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:707 INFO  ViewSystemUsersPage :180 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 21:06:930 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: (//i)[13]]
+2024-06-25 21:06:96 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:190 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (e34d79eba064d1b10b23772a132c1ce9)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:204 INFO  ViewSystemUsersPage :215 - Getting UserName from record : Proxy element for: DefaultElementLocator 'By.xpath: (//div[@data-v-6c07a142])[1]'
+2024-06-25 21:06:546 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:901 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:105 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:209 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:566 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:811 INFO  ViewSystemUsersPage :171 - Enter Admin to User Name field : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:853 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:944 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 21:06:142 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: (//i)[13]]
+2024-06-25 21:06:304 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:398 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:483 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (41a1ea86b74bd48ffd1dcab4fe2bd169)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 21:06:156 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:549 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:695 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:480 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:827 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:110 INFO  ViewSystemUsersPage :171 - Enter Nina.Patel to User Name field : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:129 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:215 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 21:06:437 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: (//i)[13]]
+2024-06-25 21:06:615 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:693 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:769 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (ddb4101f2d89a55c0866a38fb02ce4bf)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 21:06:19 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:473 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:669 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:409 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:631 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:870 INFO  ViewSystemUsersPage :171 - Enter Cassidy.Hope to User Name field : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:897 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:08 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 21:06:232 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: (//i)[13]]
+2024-06-25 21:06:384 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:466 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:542 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (4f46be4d08424eb56f7e93e6c49c2694)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 21:06:125 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:595 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:827 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:959 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:229 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:492 INFO  ViewSystemUsersPage :171 - Enter Odis.Adalwin to User Name field : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:510 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:596 INFO  ViewSystemUsersPage :185 - Clicking on ESS option in UserRole drop-down : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //span[contains(text(),'ESS')]]
+2024-06-25 21:06:812 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: (//i)[13]]
+2024-06-25 21:06:957 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:44 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:133 INFO  ViewSystemUsersPage :211 - Clicking on Reset button : [[ChromeDriver: chrome on windows (f72c4d3a8137903aa11d9817f0bcacee)] -> xpath: //button[normalize-space()='Reset']]
+2024-06-25 21:06:84 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:723 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:940 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (f6d6c7d60de31223eeaac065f668b025)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:154 INFO  DashboardPage :36 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (f6d6c7d60de31223eeaac065f668b025)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-06-25 21:06:224 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:682 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:884 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (34d6512ee837ad9efa16a6d24d305f0e)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:52 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (34d6512ee837ad9efa16a6d24d305f0e)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:392 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (34d6512ee837ad9efa16a6d24d305f0e)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:489 INFO  ViewSystemUsersPage :117 - Clicking on Add button: [[ChromeDriver: chrome on windows (34d6512ee837ad9efa16a6d24d305f0e)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-06-25 21:06:169 INFO  ViewSystemUsersPage :122 - Verifying User added text: Add User
+2024-06-25 21:06:201 INFO  AddUserPage :23 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (34d6512ee837ad9efa16a6d24d305f0e)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-06-25 21:06:390 INFO  AddUserPage :28 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (34d6512ee837ad9efa16a6d24d305f0e)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 21:06:189 INFO  ViewSystemUsersPage :128 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Ranga  Akunuri')]'
+2024-06-25 21:06:171 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:509 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:650 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (c5a42e51118ab43adb2cb4ae23b86670)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:703 INFO  DashboardPage :36 - Verifying Dashboard Page: [[ChromeDriver: chrome on windows (c5a42e51118ab43adb2cb4ae23b86670)] -> xpath: //div[@class='oxd-topbar-header']/div[1]/span[1]/h6[1]]
+2024-06-25 21:06:29 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:492 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:702 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (7115d2b3fabb843f9f7c4be57056029c)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:45 INFO  DashboardPage :41 - Verifying Orange HRM Logo: [[ChromeDriver: chrome on windows (7115d2b3fabb843f9f7c4be57056029c)] -> xpath: //img[@alt='client brand banner']]
+2024-06-25 21:06:182 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:561 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:759 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (4e6806690e7437ac5efb2668b28e311c)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:332 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (4e6806690e7437ac5efb2668b28e311c)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:549 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (4e6806690e7437ac5efb2668b28e311c)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:604 INFO  ViewSystemUsersPage :117 - Clicking on Add button: [[ChromeDriver: chrome on windows (4e6806690e7437ac5efb2668b28e311c)] -> xpath: //button[@class='oxd-button oxd-button--medium oxd-button--secondary']]
+2024-06-25 21:06:219 INFO  ViewSystemUsersPage :122 - Verifying User added text: Add User
+2024-06-25 21:06:262 INFO  AddUserPage :23 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (4e6806690e7437ac5efb2668b28e311c)] -> xpath: (//div[@class = 'oxd-select-wrapper'])[1]]
+2024-06-25 21:06:481 INFO  AddUserPage :28 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (4e6806690e7437ac5efb2668b28e311c)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 21:06:339 INFO  ViewSystemUsersPage :128 - Entering Employee name: Proxy element for: DefaultElementLocator 'By.xpath: //*[@class='oxd-autocomplete-wrapper']//*[contains(text(),'Ranga  Akunuri')]'
+2024-06-25 21:06:611 INFO  LoginPage :41 - Enter User Name: Admin
+2024-06-25 21:06:971 INFO  LoginPage :51 - Enter Password: admin123
+2024-06-25 21:06:169 INFO  LoginPage :46 - Clicking on Login Button: [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //button[@type='submit']]
+2024-06-25 21:06:178 INFO  HomePage :37 - Clicking on Admin link : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //li[1]//a[1]//span[1]]
+2024-06-25 21:06:523 INFO  ViewSystemUsersPage :112 - Verifying System User Text: [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //h5[@class='oxd-text oxd-text--h5 oxd-table-filter-title']]
+2024-06-25 21:06:683 INFO  ViewSystemUsersPage :171 - Enter abc92 to User Name field : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //div[@class='oxd-input-group oxd-input-field-bottom-space']//div//input[@class='oxd-input oxd-input--active']]
+2024-06-25 21:06:782 INFO  ViewSystemUsersPage :175 - Clicking on UserRole drop-down : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //div[@class='oxd-table-filter-area']//div[2]//div[1]//div[2]//div[1]//div[1]//div[1]]
+2024-06-25 21:06:859 INFO  ViewSystemUsersPage :180 - Clicking on Admin option in UserRole drop-down : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //span[contains(text(),'Admin')]]
+2024-06-25 21:06:92 INFO  ViewSystemUsersPage :191 - Clicking on Status drop-down : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: (//i)[13]]
+2024-06-25 21:06:252 INFO  ViewSystemUsersPage :196 - Clicking on Disable option in Status drop-down : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //span[normalize-space()='Disabled']]
+2024-06-25 21:06:345 INFO  ViewSystemUsersPage :206 - Clicking on Search button : [[ChromeDriver: chrome on windows (ac13530e82a892610fa08c535b333368)] -> xpath: //button[normalize-space()='Search']]
+2024-06-25 21:06:939 INFO  ViewSystemUsersPage :215 - Getting UserName from record : Proxy element for: DefaultElementLocator 'By.xpath: (//div[@data-v-6c07a142])[1]'
